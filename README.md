@@ -87,7 +87,7 @@
 
 ### 📂 Wyróżnione projekty:
 
-#### 1. [PipeQ](https://github.com/Kennene/pipeq/tree/feature/vue-tailwind-proposal-user-view)
+#### 1. [PipeQ](https://github.com/Kennene/pipeq)
 - **Opis:** System zarządzania kolejkami, który optymalizuje przepływ i kontrolę użytkowników. System działa produkcyjnie na jednej z polskich uczelni wyższych, wspierając codzienne zarządzanie procesami. Projekt wykorzystuje szeroki wachlarz technologii front-endowych, w tym **Vue.js**, **Tailwind CSS**, **Alpine.js**, **Pinia**, **Vite**, **Laravel Echo**, **Pusher.js**, oraz **vuedraggable**.
 - **Moja rola:** Wdrożenie frontendu z wykorzystaniem **Vue.js** i **Tailwind CSS**.
 - **Technologie:** Vue.js, Tailwind CSS, Alpine.js, Pinia, Vite, Laravel Echo, Pusher.js, vuedraggable.
